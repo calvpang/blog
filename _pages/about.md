@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Hello! My name is Calvin and welcome to my blog!
+I'm currently a Data Scientist with a background in Chemical Process Engineering and Commerce and get opportunities to work across various domains. I am also interested in home automation and IoT. I hope to share my experiences with you in this blog.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
